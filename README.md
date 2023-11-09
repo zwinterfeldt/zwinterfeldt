@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zwinterfeldt
 - 👀 I’m interested in ... everything Computer Science. Not sure what area specifically yet, trying a little bit of everything.
-- 🌱 I’m currently learning ... data structures in Java, algorithms, object-oriented programming, and computer hardware.
+- 🌱 I’m currently learning ... Machine Learning
 - 💞️ I’m looking to collaborate on ... anything and everything
 
 <!---
