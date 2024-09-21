@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zwinterfeldt
-- 👀 I’m interested in ... everything Computer Science. Not sure what area specifically yet, trying a little bit of everything.
-- 🌱 I’m currently learning ... Machine Learning
+- 👀 I’m interested in ... machine learning, full stack development, systems programming
+- 🌱 I’m currently learning ... Full stack development
 - 💞️ I’m looking to collaborate on ... anything and everything
 
 <!---
